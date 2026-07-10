@@ -8,8 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=imsonw&label=PROFILE+VIEWS&color=00C9FF&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/imsonw?label=FOLLOWERS&style=for-the-badge&color=2C5364" alt="followers" />
 <img src="https://img.shields.io/badge/DA%20NANG-VIETNAM-0F2027?style=for-the-badge&logo=googlemaps&logoColor=00C9FF" alt="location" />
 
 </div>
